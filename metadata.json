@@ -1,0 +1,7 @@
+{
+  "name": "Alimento - Modern Cafe & Bistro",
+  "description": "A high-end cafe and bistro experience featuring artisan coffee, gourmet cuisine, and a seamless reservation system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
